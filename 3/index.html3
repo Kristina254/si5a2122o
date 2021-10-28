@@ -1,0 +1,33 @@
+NIM : 1922500003 <br>
+NAMA : KRISTINA <br>
+Kelompok : SI5A <br>
+
+<p>Kesimpulan pata pertemuan ketiga (3) yang saya ambil yaitu :<p>
+
+<ol>
+<li>Pertama kita ekstrak hasil pertemuan 2 (bahan pertemua 3).</li>
+<li>Habis diekstrak kita buka file yang ada ditele dan didowload.</li>
+<li>Hasil dowload itu kemudian kita ekstrak here dan akan berubah menjadi folder.</li>
+<li>Setelah menjadi folder,kemudian foldernya di rename menjadi si5aa2122o.</li>
+<li>Setelah direname kemudian kita buka file Xampp dan kita copy folder tadi kedalam folder htdocs didalam folder Xampp.</li>
+<li>Setelah itu kita hidupkan xampp dan buka sql menggunakan sublime text.</li>
+<li>Tekan ctrl+h localhost/si5a2122o lalu copy dan paste dengan cara replace.</li>
+<li>Ubah localhost/si5a2122o menjadi localhost/si5aa2122o lalu replace all dan save.</li>
+<li>Ctrl+h db_si5a2122o lalu copy dan paste ke replace.</li>
+<li>Ubah bd_si5a2122o menjadi bd_si5aa2122o replace dan simpan.</li>
+<li>Kemudian ke xampp lalu kr mysql klik admin.</li>
+<li>Cari import,pilih file lalu go.</li>
+<li>Jika muncul tampilan berwarna merah berarti belum ada yang diganti.</li>
+<li>buka folder si5a2122o yang ada dihtdocs.</li>
+<li>lalu cari wp-config.php,gunakan sublime text lalu cari db_si5a2122o.</li>
+<li>ctrl+h db_si5a2122o lalu copy dan paste ke replace.</li>
+<li>selanjutnya ubah db_si5a2122o menjadi db_si5aa2122o lalu replace all dan save.</li>
+<li>import ulang file sql lalu go.</li>
+<li>jika sudah muncul warna hijau berarti database sudah bisa digunakan.</li>
+<li>buka pos lalu tambah baru pos.</li>
+<li>tambah teks apa yang ingin di ketik,lalu terbitkan.</li>
+<li>visibilitas bisa diubah ke publik/privat/terlindungi sandi.</li>
+<li>klik kelola lokasi pilih menu horizontal deskop lalu pilh menu utama.</li>
+<li>cari kategori ditampilan menu.</li>
+<li>ceklis kategori yang sudah dibuat lalu tambabhkan kemenu yang kemudian menu bar sudah siap.</li>
+</ol>
